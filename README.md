@@ -15,7 +15,7 @@ Project consists of a simple Visual Studio form that allows users to play a game
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
